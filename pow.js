@@ -10,7 +10,5 @@ var pow = function (a, b) {
   return result
 }
 
-console.log(pow(2, 0))
-
 module.exports = pow
 
